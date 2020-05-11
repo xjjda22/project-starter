@@ -1,7 +1,7 @@
 {
   "name": "projectstarter",
   "version": "0.0.1",
-  "description": "got url checking",
+  "description": "project starter",
   "main": "app.js",
   "scripts": {
     "start": "node -r dotenv/config app.js",
